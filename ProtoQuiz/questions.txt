@@ -1,0 +1,186 @@
+Three Domains of Life
+Terms: Homeostasis, metabolism, characteristics of living organisms
+Questions: 
+Where was the first life from?
+What are the characteristics of living organisms and what do each of them mean?
+
+Classification of Life
+Terms: monophyletic, paraphyletic, polyphyletic, classification of life
+Questions: 
+Who developed the naming system?
+What are the different groupings of organisms?
+What is the difference between Linnean system and Modern system of classification?
+What are the 7 levels of classification?
+
+Species Definition and Naming
+Terms: species, species concept, morphological species concept, biological species concept, phylogenetic species concept, taxonomy, binomial nomenclature
+Questions:
+What are the different species concepts and their definitions?
+What are the pros and cons of morphological species concept?
+What are the pros and cons of biological species concept?
+what are the pros and cons of phylogenetic species concept?
+Who is the father of taxonomy?
+How does binomial nomenclature work?
+
+Species Classification
+Terms: rank, taxon, common ancestor, evidences of relationships, phylogenetic tree, homologous structures, analogous structures, genes, nucleotides
+Questions: 
+What is the difference between rank and taxon?
+What are the three evidences of relationship, and their definitions?
+What are the similarities between dinosaurs and birds?
+What do each part of a phylogenetic tree represent?
+Give an example of a phylogenetic tree.
+Why is classification important? (4 examples)
+
+Kingdoms and Domains
+Terms: unicellular, multicellular, prokaryotic, eukaryotic, dichotomous keys, dichotomy, autotrophs, heterotrophs, asexual reproduction, sexual reproduction
+Questions:
+What is the order of each kingdom was discovered and their years?
+What is the oldest cell type?
+What is the difference between a multicellular and unicellular organism?
+Which type of cell has a flagellum?
+Why was the rank Domain added?
+How do dichotomous keys work?
+What are the 8 traits of mammals?
+
+Cell Division
+Terms: mitosis, meiosis
+Questions
+Which contributes to genetic diversity (mitosis or meiosis)?
+
+Viruses
+Terms: capsid, bacteriophages, virulent virus, provirus, lytic cycle, lysogenic cycle, retrovirus, reverse transcriptase, prions, antigens, antibodies
+Questions
+What do viruses need in order to reproduce?
+Are viruses cells?
+T/F viruses have DNA/RNA inside of them
+How are viruses classified?
+What is the capsid made out of?
+Why can’t viruses attack all cells?
+How does the lytic cycle work?
+What is different about the lytic cycle and the lysogenic cycle?
+Which disease-causing agent has no RNA/DNA
+How do prions occur and why are they dangerous?
+How can viruses help biotechnology?
+What are the 3 types of vaccines?
+How are retroviruses different than normal viruses?
+What cells does HIV attack?
+How is AIDS transmitted?
+How long does it take from the HIV infection to fatal AIDS symptoms?
+T/F Is HIV a retrovirus?
+
+Biodiversity
+Terms: Species biodiversity, genetic biodiversity, ecosystem biodiversity, losses of biodiversity
+Questions
+What are the 3 types of biodiversity?
+What are the 5 losses of biodiversity?
+Why is biodiversity important?
+
+Protists
+Terms: protozoans, cercozoans, pseudopods, ciliates, flagellates, cilia, flagella, sporozoans, plasmodial slime moulds, cellular slime moulds, water moulds, diatoms, dinoflagellates, euglenoids
+Questions:
+what are the characteristics of of protists?
+How do protozoans get energy?
+how do amoebas feed and move?
+What are the 4 types of protozoans?
+What is an example of sporozoans?
+How do ciliates feed and move?
+How do flagellates move?
+how do Fungus-like protists feed?
+How do Fungus-like protists reproduce?
+What are the 3 types of fungus-like protists?
+What are the 3 types of plant-like protists?
+What the cell walls of Diatoms made out of?
+Which protist is responsible for coral bleaching and blooms?
+How do Euglenoids feed?
+
+Algae
+Terms: brown algae, holdfast, stipe, blades, red algae, green algae, embryo, vascular tissue, xylem, phloem, gametophyte, haploid, sporic reproduction, sporophyte, diploid
+Questions
+How are are multicellular algae classified?
+How do algae get food?
+What are the 3 types of multicellular algae?
+What is special about brown algae?
+Do brown algae have leaves/roots?
+What is special about red algae?
+Which algae is put in sushi?
+Name 3 reasons why some scientists consider green algae to be a plant.
+T/F green algae can live on land
+Which algae are plants descended from?
+What 3 things did green algae need to figure out to go on land?
+What 2 things did vascular tissue allow plants to do?
+Name a gametophyte part of a plant, and a sporophyte part of a plant.
+What do gametophytes need in order to reproduce?
+
+Comparing Bacteria and Archaea
+Terms: cocci, bacilli, spirilli, strepto, staphylo, diplo, methanogenesis, cyanobacteria, aerobic, anaerobic, extromophiles, mesophiles, thermophiles, halophiles, acidophiles, obligates, facultives, pili, ribosomes, flagellum, binary fission, septum, conjugation, capsule, plasmid, endospores, gram stain, gram positive, gram negative, botulism
+Questions
+What are the characteristics of a prokaryotic cell?
+What are the 3 common shapes of bacteria?
+What is the benefit of cocci bacteria?
+What is the benefit of bacilli bacteria?
+What is the benefit of spirilli bacteria?
+What are the 3 types of bacterial aggregations?
+How does methanogenesis work?
+How is most of the atmospheric oxygen created?
+How does pili help the bacteria?
+Is binary fission asexual or sexual?
+How fast can bacteria grow using binary fission?
+How does conjugation work?
+What are the characteristics of gram positive bacteria?
+What is the characteristics of gram negative bacteria?
+How much and how long does canned food need to be heated to destroy endospores?
+What are the 2 effects of antibiotics on bacteria?
+How does bacteria help the environment?
+How can archaeas be used in biotechnology?
+How can bacteria be used in biotechnology?
+
+Superbugs
+Terms: endosymbiosis
+Questions
+What does endosymbiosis state?
+What are the 3 evidences of endosymbiosis?
+Where does our first mitochondria come from?
+
+Plants
+Terms: embryophytes, bryophytes, rhizoids, mosses, liverworts, hornworts, whisk ferns, club mosses, horsetails, ferns, fiddlehead, cones, pollen, gymnosperms, angiosperms, fruit, flowers, hermaphrodites
+Questions:
+What are plant cell walls made of?
+what was the first type of plant to move on land?
+What are some characteristics of bryophytes?
+What are the 3 types of bryophytes?
+how thick are bryophyte leaves?
+What is the difference between liverworts and hornworts?
+What is the difference between mosses and liverworts?
+Which type of plant first formed forests?
+What are the 4 types of seedless vascular plants?
+What was the first type of plant to not need water for gametophytes?
+What is the difference between male and female cones?
+How do gymnosperms reproduce?
+What makes up the majority of plants (type)?
+How do angiosperms reproduce?
+
+Fungi
+Terms: hyphae, mycelium, fruiting body, parasitic, predatory, mutualistic, sapriobial, spore production, budding, fragmentation, monophyletic, fungus Imperfecti, sac fungus, club fungus, zygomycota, glomeromycota, chytrids, asci, basidiospores, basidia, mycorrihizal relationships, zygospores
+Questions:
+What some characteristics of fungi?
+T/F the majority of fungi are unicellular.
+Where is most of the fungus?
+How do fungi eat?
+What are the 2 types of asexual reproduction in fungi?
+What is the largest group of fungi?
+What are some applications of fungus imperfecti?
+
+Animals
+Terms: blastula, asymmetrical body plan, radial body plan, bilateral body plan, anterior, posterior, dorsal, ventral, lateral surfaces, cephalization, blastopore, protostome, deuterostome, segmentation, gametic reproduction, sessile, motile, polyp, medusa, sponges, cnidarians, flatworms, segmented worms, molluscs, Enchidoderms, Class Bivavlia, Class Gastropoda, Class Cephalopoda, Arthopods, Chordata, Invertebrates, Vertebrates, notochord
+Questions:
+What are the characteristics of animals?
+What is an example of asymmetrical, radial, bilateral body plan?
+What does the blastopore determine?
+Which animals most likely have limbs (body plan)
+How do animals reproduce?
+What are the haploid cells in animals?
+Which animal can reproduce asexually?
+What are the 7 types of invertebrates?
+Which animal phylum has the most animals?
+What do all chordates have in common?

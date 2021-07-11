@@ -1,0 +1,233 @@
+Three Domains of Life
+first life under the ocean, when earth’s crust was formed
+Characteristics of of living organisms
+Homeostasis (maintain stable internal environment)
+Organization
+Metabolism (sum of all chemical reactions)
+Growth
+Adaptation
+Response
+Reproduction
+Terms and Questions
+Terms: Homeostasis, metabolism, characteristics of living organisms
+Questions: 
+Where was the first life from?
+What are the characteristics of living organisms and what do each of them mean?
+Classification of Life
+Naming system started by Carl Linnaeus
+Different groupings:
+Monophyletic: group sharing a common ancestor, nothing else
+Paraphyletic: group sharing a common ancestor, left out some organisms
+Polyphyletic: group not always sharing a common ancestor
+Linnean system: environment →  looks → classify
+Modern system: based on DNA
+Classification of Life:
+Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species
+Terms and Questions
+Terms: monophyletic, paraphyletic, polyphyletic, classification of life
+Questions: 
+Who developed the naming system?
+What are the different groupings of organisms?
+What is the difference between Linnean system and Modern system of classification?
+What are the 7 levels of classification?
+
+Species Definition and Naming
+Species: a group of organisms that can interbreed and make fertile offspring
+have found 2 million species on Earth
+estimate that there are 5 mil to 20 mil of species on Earth
+Species concept
+Different definitions on what a species is
+Morphological
+focused on the body shape, size, and structural features
+Pros: very simple
+Cons: hard to decide how much variation is allowed
+Biological
+defined species based on if they can have fertile offspring
+Pros: widely used by scientists
+Cons: sometimes cannot be tested (fossils, asexual organisms)
+Phylogenetic
+focuses on evolutionary history of organisms
+defines a species as cluster of organisms
+need to show pattern of relationships
+Pros: can be applied to extinct organisms (DNA)
+Disadvantages: evolutionary histories not known for all species
+Taxonomy: branch of biology that identifies/names/classifies species
+Carolus Linnaeus: father of taxonomy, used binomial nomenclature
+Binomial nomenclature
+two part naming system
+Format: Genus species
+Terms and Questions:
+Terms: species, species concept, morphological species concept, biological species concept, phylogenetic species concept, taxonomy, binomial nomenclature
+Questions:
+What are the different species concepts and their definitions?
+What are the pros and cons of morphological species concept?
+What are the pros and cons of biological species concept?
+what are the pros and cons of phylogenetic species concept?
+Who is the father of taxonomy?
+How does binomial nomenclature work?
+Species Classification
+grouping organisms based on criteria
+developed by Linnaeus
+Heirarchical classification
+using nested systems to organize organisms
+Rank: one of the 8 levels of taxonomy (e.g. Domain)
+Taxon: a specific name of the category (e.g. Eukarya)
+Common ancestor: an organism that organisms are descended from
+shows that organisms have the same evolutionary history
+the farther the split is → the less related
+Evidences of Relationships
+Anatomy
+study of organism structure
+Similarities between birds and dinosaurs
+large hollow bones
+similar arrangement of hip, leg, wrist, and shoulder structures
+feathers
+Homologous Structures: structures shared among organism because they have the same ancestor
+Analogous structures: structures shared among organism because they live in the same environment
+Physiology
+ study of organism functions (physical and chemical processes)
+DNA
+Genes: sections of DNA (long chains of molecules → nucleotides)
+Phylogenetic Tree
+illustrate relationships of organisms
+Root: oldest ancestral species
+Upper branches: present day species
+Forks: when the ancestral species splits
+E.g Hooved mammals
+Artiodactyla
+even number of hooved ties
+specialized teeth and digestive system for eating plants
+about 150 members
+Bovidae
+have horns
+110 members
+Cervidae
+have antlers
+40 species
+Cervus: high branched antlers
+Rangifer: broad palmate antlers
+Importance of Classification
+Pharmaceutical: looking for drugs, hormones, can use species producing natural proteins
+Disease: can trace transmission of disease
+can test treatment
+Agriculture: increasing crop yields and disease resistance by crossbreeding
+Conservation: identifying new species in need of serious protection
+Terms and Questions
+Terms: rank, taxon, common ancestor, evidences of relationships, phylogenetic tree, homologous structures, analogous structures, genes, nucleotides
+Questions: What is the difference between rank and taxon?
+What are the three evidences of relationship, and their definitions?
+What are the similarities between dinosaurs and birds?
+What do each part of a phylogenetic tree represent?
+Give an example of a phylogenetic tree.
+Why is classification important? (4 examples)
+Kingdoms and Domains
+Structural Diversity
+diversity shown through variety of physical structures
+Original: Plants, Animals
+1860s: Plants, Animals, Protista
+1930s: Plants, Animals, Protista, Bacteria
+1960s: Plants, Animals, Protista, Bacteria, Fungi
+1990s: Plants, Animals, Protista, Bacteria, Fungi, Archaea
+Cell Types
+Unicellular: organism only made of 1 cell
+Multicellular: organism made of 2+ cells
+Prokaryotic
+oldest cell type
+no membrane-bound nucleus
+have ribosomes and flagellum, no membrane-bound organelles
+Eukaryotic
+1000 times bigger than prokaryotic
+have membrane bound nucleus and organelles
+Three Domains
+Rank Domain was added because of Bacteria and Archaea
+classified Eukarya as own domain for all eukaryotes
+Dichotomous Keys
+identifying species using yes/no questions
+Dichotomy: a two pronged fork
+must have appropriate choices for dichotomous keys
+Characteristics of Kingdoms
+Autotrophs: makes its own food, usually photosynthesis
+Heterotrophs: consume other organisms for food
+Asexual reproduction: found in all kingdoms
+Sexual reproduction: genetic material from two parents combine for unique genes
+
+
+Domain
+Bacteria
+Archaea
+Eukarya
+Kingdom
+Bacteria
+Archaea
+Protista
+Plantae
+Fungi
+Animalia
+Cell Type
+Prokaryote
+Prokaryote
+Eukaryote
+Eukaryote
+Eukaryote
+Eukaryote
+Number of cells
+Uni
+Uni
+Uni/Multi
+Multi
+Mostly Multi
+Multi
+Cell wall material
+Peptidoglycan
+No Peptidoglycan
+sometimes no cell wall
+Cellulose/no cell wall
+Cellulose
+Chitin
+No cell wall
+Nutrition
+(trophs)
+Auto/Hetero
+Auto/Hetero
+Auto/Hetero
+Auto
+Hetero
+Hetero
+reproduction
+(mostly)
+Asexual
+Asexual
+Asexual/Sexual
+Sexual
+Sexual
+Sexual
+Mammal traits
+mammary glands
+hair and fur
+3 piece ear
+diaphragm
+warm-blooded metabolism
+1 piece lower jaw
+one-time tooth replacement
+4 chambered heart
+Terms and Questions
+Terms: unicellular, multicellular, prokaryotic, eukaryotic, dichotomous keys, dichotomy, autotrophs, heterotrophs, asexual reproduction, sexual reproduction
+Questions:
+What is the order of each kingdom was discovered and their years?
+What is the oldest cell type?
+What is the difference between a multicellular and unicellular organism?
+Which type of cell has a flagellum?
+Why was the rank Domain added?
+How do dichotomous keys work?
+What are the 8 traits of mammals?
+Cell Division
+Mitosis
+produces two cells identical to parent cell
+Meiosis
+produces the reproductive cells (egg and sperm)
+have half the number of chromosomes
+contributes to genetic diversity
+Terms and Questions
+Terms: mitosis, meiosis
+Questions
+Which contributes to genetic diversity (mitosis or meiosis)?
